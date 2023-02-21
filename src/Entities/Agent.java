@@ -1,6 +1,6 @@
 package Entities;
 
-# à revoir
+// à revoir pour Salman
 import java.util.ArrayList;
 
 public class Agent
